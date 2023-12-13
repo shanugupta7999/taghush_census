@@ -15,10 +15,11 @@ Set up-
         * React-Route-dom
         * Web vitals
         * React-Scripts
+
 Run -
-    npm start(React) command
-    Node App.js
-    Node Server.js
+    ```npm start```(React) command
+    ```Node App.js```
+    ```Node Server.js```
     Inspection (On Righr click)
 
 List of references and resources used for the project
